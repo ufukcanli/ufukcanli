@@ -1,5 +1,7 @@
 👋 Hi, I’m Ufuk from Turkey! I am a non-stop learner with passion to create products that look and feel good. I try to make myself a better person and the world a better place every single day. I enjoy listening to indie music, reading books about history, playing basketball, watching movies and currently learning foreign languages. On the other hand, I've been writing blog posts since I was a little one. I love connecting with people by sharing my experiences. I’m currently building my own indie app.
 
+Do you want to get to know me better? [Let's meet!](https://superpeer.com/ufukcanli) 
+
 ### Check out my blog posts 👇
 - [Let me introduce you to the Stack data structure](https://ufukcanli.com/let-me-introduce-you-to-the-stack-data-structure) - Jan 4, 2022 🔥
 - [Most common communication patterns in iOS Development](https://ufukcanli.com/most-common-communication-patterns-in-ios-development) - Dec 23, 2021 
