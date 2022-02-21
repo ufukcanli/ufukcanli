@@ -1,4 +1,4 @@
-👋 Hi, I’m Ufuk, an iOS Developer from Turkey! I am a non-stop learner with passion to create products that look and feel good. I try to make myself a better person and the world a better place every single day. I enjoy listening to indie music, reading books about history, playing basketball, watching movies from all over the world, getting to know new people, cultures, ideas, etc. On the other hand, I've been writing blog posts since I was a little one. I love connecting with people by sharing my experiences. Currently working full-time remotely as an iOS Developer.
+👋 Hi, I’m Ufuk, an iOS Developer from Turkey! I am a non-stop learner with passion to create products that look and feel good. I try to make myself a better person and the world a better place every single day. I enjoy listening to indie music, reading books about history, playing basketball, watching movies from all over the world, getting to know new people, cultures, ideas, etc. On the other hand, I've been writing blog posts since I was a little one. I love connecting with people by sharing my experiences.
 
 Do you want to get to know me better? [Book a call!](https://superpeer.com/ufukcanli)
 
