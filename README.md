@@ -2,7 +2,7 @@
 
 Do you want to get to know me better by having a conversation? [Book a call!](https://superpeer.com/ufukcanli)
 
-Do you want to encourage me to write more often? [Become a Patron!](https://www.patreon.com/ufukcanli)
+Do you want to encourage me to write more often? [Buy me a coffee!](https://www.buymeacoffee.com/ufukcanli)
 
 ### Check out my blog posts 👇
 - [Movies and series to stay motivated as a programmer](https://ufukcanli.com/movies-and-series-to-stay-motivated-as-a-programmer) - Mar, 25, 2022 🔥
