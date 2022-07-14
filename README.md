@@ -5,7 +5,8 @@ Do you want to get to know me better by having a conversation? [Book a call!](ht
 Do you want to encourage me to write more often? [Buy me a coffee!](https://www.buymeacoffee.com/ufukcanli)
 
 ### Check out my blog posts 👇
-- [Failed to prepare device for development issue](https://ufukcanli.com/failed-to-prepare-device-for-development-issue) - Apr 13, 2022 🔥
+- [Combine ile ViewModel ve ViewController arasında haberleşme](https://ufukcanli.com/combine-ile-viewmodel-ve-viewcontroller-arasinda-haberlesme) 🇹🇷 - Jul 14, 2022 🔥
+- [Failed to prepare device for development issue](https://ufukcanli.com/failed-to-prepare-device-for-development-issue) - Apr 13, 2022 
 - [Movies and series to stay motivated as a programmer](https://ufukcanli.com/movies-and-series-to-stay-motivated-as-a-programmer) - Mar 25, 2022
 - [Open up a UIPickerView when a UITableViewCell selected in UIKit](https://ufukcanli.com/open-up-a-uipickerview-when-a-uitableviewcell-selected-in-uikit) - Mar 11, 2022
 - [Let me introduce you to the Stack data structure](https://ufukcanli.com/let-me-introduce-you-to-the-stack-data-structure) - Jan 4, 2022
