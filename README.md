@@ -5,7 +5,8 @@ Do you want to get to know me better by having a conversation? [Book a call!](ht
 Do you want to encourage me to write more often? [Buy me a coffee!](https://www.buymeacoffee.com/ufukcanli)
 
 ### Check out my blog posts 👇
-- [TIL: ViewThatFits](https://ufukcanli.com/til-viewthatfits) - Mar 1, 2023 🔥
+- [On a quest for the separation of concerns](https://ufukcanli.com/on-a-quest-for-the-separation-of-concerns) - Mar 29, 2023 🔥
+- [TIL: ViewThatFits](https://ufukcanli.com/til-viewthatfits) - Mar 1, 2023 
 - [TIL: Lazy sequences](https://ufukcanli.com/til-lazy-sequences) - Feb 22, 2023 
 - [SwiftUI'da veri akışı ve MVC mimarisi](https://ufukcanli.com/swiftuida-veri-akisi-ve-mvc-mimarisi) 🇹🇷 - Oct 6, 2022 
 - [Combine ile ViewModel ve ViewController arasında haberleşme](https://ufukcanli.com/combine-ile-viewmodel-ve-viewcontroller-arasinda-haberlesme) 🇹🇷 - Jul 14, 2022
