@@ -1,8 +1,8 @@
 👋 Hi, I’m Ufuk, an iOS Developer from Turkey! I am a non-stop learner with passion to create products that look and feel good. I try to make myself a better person and the world a better place every single day. I enjoy listening to indie music, reading books, playing basketball, watching movies from all around the world. On the other hand, I've been writing blog posts since I was a little one. I love connecting with people by sharing my experiences. Iʼm also currently developing my own indie app as a side hustle.
 
-Do you want to get to know me better by having a conversation? [Book a call!](https://superpeer.com/ufukcanli)
+Would you like to get to know me better by having a conversation? [Book a call!](https://superpeer.com/ufukcanli)
 
-Do you want to encourage me to write more often? [Buy me a coffee!](https://www.buymeacoffee.com/ufukcanli)
+Would you like to encourage me to write more often? [Buy me a coffee!](https://www.buymeacoffee.com/ufukcanli)
 
 ### Check out my blog posts 👇
 - [On a quest for the separation of concerns](https://ufukcanli.com/on-a-quest-for-the-separation-of-concerns) - Mar 29, 2023 🔥
