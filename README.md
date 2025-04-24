@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi, I'm Ufuk!
 
-<!--
-**ufukcanli/ufukcanli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a lifelong learner passionate about building products that are both functional and beautifully designed. Every day, I try to improve myself and make the world a better place. 
 
-Here are some ideas to get you started:
+Writing has been part of my journey since childhood — I’ve been jotting down my thoughts for as long as I can remember. I love connecting with people by sharing my experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎬 I’m a cinephile who’s watched hundreds of movies.
+
+🚗 An aspiring traveler who enjoys road trips across the country.
+
+🏀 A huge basketball fan — playing or watching, I’m always in.
+
+📚 Deeply interested in history and the stories that shaped our world.
+
+I left my engineering studies early to pursue a full-time career in software development, and over the years, I’ve continuously expanded my skill set and explored new technologies.
+
+I hold:
+
+🖥️ An associate degree in Computer Programming
+
+🎓 A bachelor’s degree in Management Information Systems
+
+In the near future, I plan to pursue a master’s degree to further expand my skills and impact.
