@@ -19,5 +19,3 @@ I hold:
 🖥️ An associate degree in Computer Programming
 
 🎓 A bachelor’s degree in Management Information Systems
-
-In the near future, I plan to pursue a master’s degree to further expand my skills and impact.
