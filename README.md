@@ -10,7 +10,7 @@ Writing has been part of my journey since childhood — I’ve been jotting down
 
 🏀 A huge basketball fan — playing or watching, I’m always in.
 
-📚 Deeply interested in history and the stories that shaped our world.
+🌍 Curious about languages and cultures — currently learning Spanish.
 
 I left my engineering studies early to pursue a full-time career in software development, and over the years, I’ve continuously expanded my skill set and explored new technologies.
 
